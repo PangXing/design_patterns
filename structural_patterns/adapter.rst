@@ -65,7 +65,7 @@
    :language: cpp
    :linenos:
 
-.. literalinclude:: /code/Adapter/Adapte.cpp
+.. literalinclude:: /code/Adapter/Adaptee.cpp
    :language: cpp
    :linenos:
 
